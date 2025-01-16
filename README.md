@@ -38,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -48,9 +50,6 @@
   <a href="https://github.com/andr3sEnrique">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andr3sEnrique&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andr3sEnrique&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr3sEnrique&theme=tokyonight&layout=donut)](https://github.com/Mrls09/github-readme-stats)
 </p>
 
 
