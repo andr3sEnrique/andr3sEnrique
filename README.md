@@ -48,10 +48,12 @@
   <a href="https://github.com/andr3sEnrique">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andr3sEnrique&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andr3sEnrique&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr3sEnrique&theme=tokyonight&layout=donut)](https://github.com/Mrls09/github-readme-stats)
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrls09&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrls09&theme=tokyonight&layout=donut)](https://github.com/Mrls09/github-readme-stats)
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andr3sEnrique&theme=dark&hide_border=true"/>
